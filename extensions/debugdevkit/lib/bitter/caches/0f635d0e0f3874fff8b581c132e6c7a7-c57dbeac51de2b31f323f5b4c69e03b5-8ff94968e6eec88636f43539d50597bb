@@ -1,0 +1,4 @@
+<table class="source"><tr id="line-1"><th><a href="#line-1">1</a></th><td><span class="context-markup xml"><span class="declaration open close"><span class="begin">&lt;?xml</span> <span class="attribute">version=</span><span class="value">"1.0"</span> <span class="attribute">encoding=</span><span class="value">"utf-8"</span> <span class="end">?&gt;</span></span></td></tr></span>
+<tr id="line-2"><th><a href="#line-2">2</a></th><td><span class="context-markup xml"><span class="tag open"><span class="begin">&lt;data</span><span class="end">&gt;</span></span></td></tr></span>
+<tr id="line-3"><th><a href="#line-3">3</a></th><td><span class="context-markup xml">    <span class="tag open"><span class="begin">&lt;events</span> <span class="end">/&gt;</span></span></td></tr></span>
+<tr id="line-4"><th><a href="#line-4">4</a></th><td><span class="context-markup xml"><span class="tag close">&lt;/data&gt;</span></span></td></tr></table>
